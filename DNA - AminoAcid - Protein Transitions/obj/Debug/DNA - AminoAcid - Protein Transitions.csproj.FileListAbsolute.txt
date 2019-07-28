@@ -1,0 +1,20 @@
+C:\Users\Gokce\Desktop\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\bin\Debug\DNA - AminoAcid - Protein Transitions.exe.config
+C:\Users\Gokce\Desktop\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\bin\Debug\DNA - AminoAcid - Protein Transitions.exe
+C:\Users\Gokce\Desktop\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\bin\Debug\DNA - AminoAcid - Protein Transitions.pdb
+C:\Users\Gokce\Desktop\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\obj\Debug\DNA - AminoAcid - Protein Transitions.csprojAssemblyReference.cache
+C:\Users\Gokce\Desktop\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\obj\Debug\DNA___AminoAcid___Protein_Transitions.Form1.resources
+C:\Users\Gokce\Desktop\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\obj\Debug\DNA___AminoAcid___Protein_Transitions.Properties.Resources.resources
+C:\Users\Gokce\Desktop\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\obj\Debug\DNA - AminoAcid - Protein Transitions.csproj.GenerateResource.cache
+C:\Users\Gokce\Desktop\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\obj\Debug\DNA - AminoAcid - Protein Transitions.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Desktop\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\obj\Debug\DNA - AminoAcid - Protein Transitions.exe
+C:\Users\Gokce\Desktop\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\obj\Debug\DNA - AminoAcid - Protein Transitions.pdb
+C:\Users\Gokce\Documents\courses\4\donem1\BIL4103 Biyoenformatik\odev1\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\bin\Debug\DNA - AminoAcid - Protein Transitions.exe.config
+C:\Users\Gokce\Documents\courses\4\donem1\BIL4103 Biyoenformatik\odev1\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\bin\Debug\DNA - AminoAcid - Protein Transitions.exe
+C:\Users\Gokce\Documents\courses\4\donem1\BIL4103 Biyoenformatik\odev1\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\bin\Debug\DNA - AminoAcid - Protein Transitions.pdb
+C:\Users\Gokce\Documents\courses\4\donem1\BIL4103 Biyoenformatik\odev1\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\obj\Debug\DNA - AminoAcid - Protein Transitions.csprojAssemblyReference.cache
+C:\Users\Gokce\Documents\courses\4\donem1\BIL4103 Biyoenformatik\odev1\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\obj\Debug\DNA___AminoAcid___Protein_Transitions.Form1.resources
+C:\Users\Gokce\Documents\courses\4\donem1\BIL4103 Biyoenformatik\odev1\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\obj\Debug\DNA___AminoAcid___Protein_Transitions.Properties.Resources.resources
+C:\Users\Gokce\Documents\courses\4\donem1\BIL4103 Biyoenformatik\odev1\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\obj\Debug\DNA - AminoAcid - Protein Transitions.csproj.GenerateResource.cache
+C:\Users\Gokce\Documents\courses\4\donem1\BIL4103 Biyoenformatik\odev1\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\obj\Debug\DNA - AminoAcid - Protein Transitions.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Documents\courses\4\donem1\BIL4103 Biyoenformatik\odev1\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\obj\Debug\DNA - AminoAcid - Protein Transitions.exe
+C:\Users\Gokce\Documents\courses\4\donem1\BIL4103 Biyoenformatik\odev1\DNA - AminoAcid - Protein Transitions\DNA - AminoAcid - Protein Transitions\obj\Debug\DNA - AminoAcid - Protein Transitions.pdb
